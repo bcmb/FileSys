@@ -1,0 +1,120 @@
+Thread-2 finished work
+Thread-1 finished work
+Thread-5 finished work
+Thread-3 finished work
+Thread-4 finished work
+Thread-0 finished work
+Results:
+pom.xml
+Create Twitter Social Post.xml
+testng-failed.xml
+Create And Publish Donation Form FIREFOX.xml
+testng-failed.xml
+Create and send single email blast (FIREFOX).xml
+Create and send split email blast (FIREFOX).xml
+testng-failed.xml
+Default test.xml
+testng-failed.xml
+TEST-com.salsalabs.ignite.automation.suites.CreateDonationFormHostedPageTest.xml
+TEST-com.salsalabs.ignite.automation.suites.CreateSocialPostTest.xml
+TEST-com.salsalabs.ignite.automation.suites.EmailBlastTest.xml
+testng.xml.html
+testng.xml.html
+testng.xml.html
+log4j.xml
+testng.xml.html
+log4j.xml
+testng-failed.xml
+testng-results.xml
+testng.xml
+testng.xml
+BuyLicenseTest.xml
+CreateCustomFieldTest.xml
+CreateDonationFormHostedPageTest.xml
+CreateNewOrgTest.xml
+CreatePaymentGatewayTest.xml
+CreatePetitionTest.xml
+CreateSegmentTest.xml
+CreateSignupFormTest.xml
+CreateSocialPostTest.xml
+CreateSupporterManuallyTest.xml
+DonateSupporterDEMO.xml
+EmailBlastSendTestAndClicksDEMO.xml
+SendTLDEMO.xml
+SignUpPetitionDEMO.xml
+SignUpSupporterDEMO.xml
+testngDEMO.xml
+BuyLicenseTest.xml
+EmailBlastKPITest.xml
+EmailBlastSendTest.xml
+CreateCustomFieldTest.xml
+ImportSupportersTest.xml
+InviteNewCMTest.xml
+CreateDonationFormHostedPageTest.xml
+CreateNewOrgTest.xml
+CreatePaymentGatewayTest.xml
+CreatePetitionTest.xml
+CreateSegmentTest.xml
+CreateSignupFormTest.xml
+Run_AcceptanceTests.xml
+CreateSocialPostTest.xml
+Run_CreateOrg.xml
+CreateSupporterManuallyTest.xml
+Run_Donations_Suite_Completed.xml
+Run_EmailKPI_Suite_Completed.xml
+Run_SubscribeAndUnsubscribe_Suite_Completed.xml
+SupporterSubscribeSignupFormTest.xml
+SupportRequestTest.xml
+DonateSupporterDEMO.xml
+EmailBlastSendTestAndClicksDEMO.xml
+SendTLDEMO.xml
+SignUpPetitionDEMO.xml
+SignUpSupporterDEMO.xml
+testngDEMO.xml
+EmailBlastKPITest.xml
+EmailBlastSendTest.xml
+ImportSupportersTest.xml
+InviteNewCMTest.xml
+Run_AcceptanceTests.xml
+Run_CreateOrg.xml
+Run_Donations_Suite_Completed.xml
+Run_EmailKPI_Suite_Completed.xml
+Run_SubscribeAndUnsubscribe_Suite_Completed.xml
+AssetsTest.xml
+SupporterSubscribeSignupFormTest.xml
+Run_AcceptanceTestsOnDev.xml
+SupportRequestTest.xml
+Run_BuyLicenseTest.xml
+Run_CreateAdmin.xml
+Run_CreateAdminOnDev.xml
+Run_CreateDonationForm.xml
+Run_CreatePaymentGateways.xml
+Run_CreateSegmentTest.xml
+Run_CreateSubscribeForm.xml
+Run_CreateSupportersTest.xml
+Run_EmailsSplitTests.xml
+Run_EmailsTests.xml
+Run_FailedLoginTest.xml
+Run_ImportSupporters.xml
+Run_refundDonation.xml
+Run_sendEmailsToUnsubscribedSupporters.xml
+Run_Test.xml
+Run_UnsubscribeSupporter.xml
+AssetsTest.xml
+Run_AcceptanceTestsOnDev.xml
+Run_BuyLicenseTest.xml
+Run_CreateAdmin.xml
+Run_CreateAdminOnDev.xml
+Run_CreateDonationForm.xml
+Run_CreatePaymentGateways.xml
+Run_CreateSegmentTest.xml
+Run_CreateSubscribeForm.xml
+Run_CreateSupportersTest.xml
+Run_EmailsSplitTests.xml
+Run_EmailsTests.xml
+Run_FailedLoginTest.xml
+Run_ImportSupporters.xml
+Run_refundDonation.xml
+Run_sendEmailsToUnsubscribedSupporters.xml
+Run_Test.xml
+Run_UnsubscribeSupporter.xml
